@@ -21,4 +21,4 @@
 🚀 Currently working on improving my technical and research skills.
 
 📫 Feel free to connect with me and collaborate!
-<img width="699" height="600" alt="DSC_4920" src="https://github.com/user-attachments/assets/74972314-62e3-4567-bdf3-3811ade0d02e" />
+
